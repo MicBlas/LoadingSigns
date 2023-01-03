@@ -1,0 +1,16 @@
+@mixin container {
+	width: 50vw;
+	height: 50vh;
+	margin: 25vh 25vw;
+	background-color: rgb(16, 17, 19);
+	position: absolute;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 1vw;
+}
+
+/* LOADING SIGN 2 */
+@mixin loadingText($delay) {
+	animation: loadingTextAnimation 2.5s $delay infinite alternate-reverse;
+}
