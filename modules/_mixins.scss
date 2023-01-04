@@ -14,3 +14,13 @@
 @mixin loadingText($delay) {
 	animation: loadingTextAnimation 2.5s $delay infinite alternate-reverse;
 }
+
+/* LOADING SIGN 3 */
+@mixin circles {
+	border-radius: 50%;
+	position: absolute;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border: 1vw solid #e03131;
+}
