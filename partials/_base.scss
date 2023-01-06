@@ -25,15 +25,19 @@ header {
 			display: flex;
 			align-items: center;
 			justify-content: space-around;
-			margin-top: 2vh;
+			margin-top: 3vh;
 			li {
 				list-style: none;
 				cursor: pointer;
+				font-size: 2vh;
 			}
 		}
 	}
 }
-
+h1 {
+	font-size: 3vh;
+	color: goldenrod;
+}
 main {
 	height: 85vh;
 	background-color: antiquewhite;
