@@ -1,11 +1,5 @@
-body {
-	font: 100% $font;
-	background-color: $primaryColor;
-}
-
 /* LOADING SIGN 1 */
-.container,
-p {
+.container {
 	@include container;
 	li {
 		height: 20vh;
