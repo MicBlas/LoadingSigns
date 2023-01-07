@@ -12,3 +12,6 @@ Technologies:
 
 - HTML
 - SASS
+- jQuery
+
+  ![ScreenShot](image.jpg)
