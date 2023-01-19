@@ -14,4 +14,6 @@ Technologies:
 - SASS
 - jQuery
 
-  ![ScreenShot](image.jpg)
+https://micblas.github.io/LoadingSigns/
+
+![ScreenShot](image.jpg)
